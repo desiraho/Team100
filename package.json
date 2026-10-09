@@ -1,0 +1,13 @@
+{
+  "name": "team-100-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node build.mjs",
+    "check": "node --check app.js && node --check content.js && node --check server.mjs && node --check build.mjs && node --check _worker.js",
+    "test": "node --test integration/registration.test.mjs"
+  }
+}
