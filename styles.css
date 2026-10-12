@@ -1920,3 +1920,11 @@ body:has(dialog[open]) {
 .founder-unmute:hover { background: #fff; }
 .founder-unmute[hidden] { display: none; }
 @media (max-width: 850px) { .founder-video-block { margin: 44px 0 56px; } }
+
+/* Team page link */
+.team-link { min-height: 42px; padding: 10px 20px; gap: 10px; text-decoration: none; }
+
+/* Join section photo */
+.join-photo { margin: 34px 0 0; max-width: 520px; border-radius: 10px; overflow: hidden; box-shadow: 0 18px 40px #51441d1f; transform: rotate(-1.2deg); border: 6px solid #fffdf7; }
+.join-photo img { display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; object-position: center 30%; }
+@media (max-width: 850px) { .join-photo { max-width: 100%; transform: none; margin-top: 26px; } }

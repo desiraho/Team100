@@ -1,0 +1,46 @@
+[
+  {
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "overflow": false,
+    "photos": "loaded",
+    "navigation": "passed",
+    "registration": "unconfigured form, Escape and focus restoration passed",
+    "carousel": "arrows and keyboard passed",
+    "javascriptErrors": []
+  },
+  {
+    "viewport": "tablet",
+    "width": 820,
+    "height": 1180,
+    "overflow": false,
+    "photos": "loaded",
+    "navigation": "passed",
+    "registration": "unconfigured form, Escape and focus restoration passed",
+    "carousel": "arrows and keyboard passed",
+    "javascriptErrors": []
+  },
+  {
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "overflow": false,
+    "photos": "loaded",
+    "navigation": "passed",
+    "registration": "unconfigured form, Escape and focus restoration passed",
+    "carousel": "arrows and keyboard passed",
+    "javascriptErrors": []
+  },
+  {
+    "viewport": "small-mobile",
+    "width": 320,
+    "height": 740,
+    "overflow": false,
+    "photos": "loaded",
+    "navigation": "passed",
+    "registration": "unconfigured form, Escape and focus restoration passed",
+    "carousel": "arrows and keyboard passed",
+    "javascriptErrors": []
+  }
+]
